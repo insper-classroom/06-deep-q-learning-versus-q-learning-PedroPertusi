@@ -34,9 +34,17 @@ alpha = 0.001
 ### Q-Learning
 ![alt text](results/curva_de_aprendizado_qlearning.jpg)
 
+### Q-Learning (Acumulado | N = 5)
+![alt text](results/curva_de_aprendizado_qlearning_acumulado.jpg)
+
 ### Deep Q-Learning
 ![alt text](results/curva_de_aprendizado_dqlearning.jpg)
+
+### Deep Q-Learning (Acumulado | N = 5)
+![alt text](results/curva_de_aprendizado_deepqlearning_acumulado.jpg)
 
 ### Comparação
 ![alt text](results/curva_de_aprendizado_comparacao.jpg)
 
+### Desempenho de Ambos os Agentes sem Treinamento
+![alt text](results/comparacao_inferencia.jpg)
